@@ -1,5 +1,5 @@
-function getRandomInteger() {
+function getRandomInt() {
   return Math.round(Math.random() * 20)
-}
+};
 
-module.exports = getRandomInteger
+module.exports = getRandomInt;
